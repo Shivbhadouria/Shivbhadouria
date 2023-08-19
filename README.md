@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Data Engineering,Azure Cloud,ML,AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shivbhadouria](https://github.com/Shivbhadouria)
+- 👨‍💻 All of my projects are available at (https://github.com/Shivbhadouria)
 
-- 📝 I also a part-time Youtuber [https://www.youtube.com/@shivbhadouria](https://www.youtube.com/@shivbhadouria)
+- 📝 I also a part-time Youtuber (https://www.youtube.com/@shivbhadouria)
 
 - 💬 Ask me about **Data Analysis, Data Engineering**
 
