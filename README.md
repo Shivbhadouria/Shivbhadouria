@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at ([https://github.com/Shivbhadouria](https://github.com/Shivbhadouria))
 
-- 📝 I also a part-time Youtuber (https://www.youtube.com/@shivbhadouria)
+- 📝 I am also a part-time Youtuber (https://www.youtube.com/@shivbhadouria)
 
-- 💬 Ask me about **Data Analysis, Data Engineering**
+- 💬 Ask me about ** Data Engineering, Data Analysis**
 
 - 📫 How to reach me **shivbhadouria66@gmail.com**
 
