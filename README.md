@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shiv Bhadouria</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 
-- 🌱 I’m currently learning **Data Engineering, Azure Cloud,ML, AI**
+- 🌱 I’m currently learning **Data Engineering, Azure Cloud, ML, AI**
 
 - 👨‍💻 All of my projects are available at ([https://github.com/Shivbhadouria](https://github.com/Shivbhadouria))
 
