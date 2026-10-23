@@ -23,7 +23,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shivbhadouria&style=for-the-badge&color=0077B6&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
