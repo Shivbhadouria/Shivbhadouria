@@ -30,65 +30,53 @@
 </div>
 
 ---
+<!-- ===================== CORE CAPABILITIES ===================== -->
 
-## ⚡ DATA ENGINEERING CAPABILITIES
+<h2 align="center">⚡ DATA ENGINEERING CAPABILITIES</h2>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🔄 Data Pipeline Engineering
-
-- Metadata-driven ingestion
-- ETL/ELT pipeline development
-- Full and incremental loads
-- Watermark-based processing
-- Pipeline parameterization
-- Error handling and retries
-
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/data-configuration.png" width="58" alt="Data pipeline icon"/><br/>
+<b>🔄 Data Pipelines</b><br/><br/>
+<sub>ETL/ELT • Metadata-driven ingestion • Incremental loads • Full loads</sub>
 </td>
-<td width="50%" valign="top">
-
-### ⚙️ Distributed Data Processing
-
-- Python and PySpark transformations
-- SQL joins and aggregations
-- Deduplication and data validation
-- Incremental MERGE operations
-- Spark partitioning concepts
-- Data processing optimization
-
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/database.png" width="58" alt="Database icon"/><br/>
+<b>⚙️ Data Processing</b><br/><br/>
+<sub>PySpark • SQL • Transformations • Deduplication • Data quality</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/cloud.png" width="58" alt="Cloud icon"/><br/>
+<b>☁️ Cloud Data Platforms</b><br/><br/>
+<sub>Azure Data Factory • Databricks • Data Lake • Azure SQL</sub>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🏗️ Data Architecture
-
-- Bronze, Silver and Gold layers
-- Medallion architecture
-- Data lake organization
-- Analytics-ready datasets
-- Data warehousing fundamentals
-- Relational data modeling
-
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/layers.png" width="58" alt="Architecture layers icon"/><br/>
+<b>🏗️ Data Architecture</b><br/><br/>
+<sub>Medallion architecture • Bronze/Silver/Gold • Data warehousing</sub>
 </td>
-<td width="50%" valign="top">
-
-### 🔐 Production Engineering
-
-- Pipeline control and audit tables
-- Secret management with Key Vault
-- Git-based version control
-- CI/CD workflows
-- Pipeline monitoring and logging
-- Data quality and reliability
-
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/security-checked.png" width="58" alt="Security icon"/><br/>
+<b>🔐 Reliability & Governance</b><br/><br/>
+<sub>Audit tables • Secret management • Pipeline monitoring • Data validation</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/git.png" width="58" alt="Git icon"/><br/>
+<b>🚀 Engineering Workflow</b><br/><br/>
+<sub>Git • GitHub • CI/CD concepts • Debugging • Automation</sub>
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
+
 
 ## 🧰 TECHNOLOGY STACK
 
