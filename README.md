@@ -223,47 +223,66 @@ flowchart LR
 ---
 
 
-<!-- ===================== LIVE GITHUB CONTRIBUTIONS ===================== -->
+<!-- ============== LIVE GITHUB CONTRIBUTION DASHBOARD ============== -->
 
-<h2 align="center">📈 LIVE GITHUB CONTRIBUTIONS</h2>
+<h2 align="center">⚡ THE DATA ENGINEER'S ACTIVITY HUB ⚡</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090979,50:0077B6,100:00D4FF&height=3&section=header" width="100%" alt="Blue neon divider"/>
+</p>
+
+<p align="center">
+  <i>Every contribution tells a story. Every commit moves the pipeline forward.</i>
+</p>
 
 <div align="center">
 
-<!-- Official contribution graph from GitHub Readme Stats -->
-<img
-  width="100%"
-  src="https://ghchart.rshah.org/0077B6/shivbhadouria"
-  alt="GitHub contribution graph for Shiv Bhadouria"
-/>
+<a href="https://github.com/shivbhadouria">
+  <img src="https://img.shields.io/badge/GITHUB-LIVE_ACTIVITY-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Live GitHub activity"/>
+</a>
 
 <br/><br/>
 
-<a href="https://github.com/shivbhadouria">
-  <img
-    src="https://img.shields.io/badge/View-Live_GitHub_Activity-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="View GitHub activity"
-  />
-</a>
+<!-- REAL CONTRIBUTION HEATMAP -->
 
-</div>
+<img
+  src="https://ghchart.rshah.org/00D4FF/shivbhadouria"
+  alt="Actual GitHub contribution history for Shiv Bhadouria"
+  width="100%"
+/>
 
----
+<br/>
 
-<!-- ===================== LIVE ACTIVITY ===================== -->
-
-<h3 align="center">⚡ RECENT GITHUB ACTIVITY</h3>
-
-<div align="center">
+<!-- LIVE ACTIVITY GRAPH -->
 
 <a href="https://github.com/shivbhadouria">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shivbhadouria&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shivbhadouria&bg_color=0d1117&color=38bdf8&line=00d4ff&point=ffffff&area=true&area_color=0077b6&hide_border=true&custom_title=Contribution%20Activity"
     width="100%"
     alt="GitHub contribution activity graph"
   />
 </a>
 
+<br/>
+
+<!-- ANIMATED FOOTER -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:0077B6,100:00D4FF&height=100&section=footer&animation=fadeIn"
+  width="100%"
+  alt="Animated blue footer"
+/>
+
+<br/>
+
+<a href="https://github.com/shivbhadouria?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My_Repositories-161B22?style=for-the-badge&logo=github&logoColor=00D4FF" alt="Explore repositories"/>
+</a>
+
 </div>
+
+<!-- ================================================================ -->
+
 
 ---
 
