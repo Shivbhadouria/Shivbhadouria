@@ -222,13 +222,46 @@ flowchart LR
 
 ---
 
-<!-- ===================== CONTRIBUTION VISUAL ===================== -->
 
-<h2 align="center">🐍 CONTRIBUTION ACTIVITY</h2>
+<!-- ===================== LIVE GITHUB CONTRIBUTIONS ===================== -->
+
+<h2 align="center">📈 LIVE GITHUB CONTRIBUTIONS</h2>
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph"/>
+<!-- Official contribution graph from GitHub Readme Stats -->
+<img
+  width="100%"
+  src="https://ghchart.rshah.org/0077B6/shivbhadouria"
+  alt="GitHub contribution graph for Shiv Bhadouria"
+/>
+
+<br/><br/>
+
+<a href="https://github.com/shivbhadouria">
+  <img
+    src="https://img.shields.io/badge/View-Live_GitHub_Activity-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="View GitHub activity"
+  />
+</a>
+
+</div>
+
+---
+
+<!-- ===================== LIVE ACTIVITY ===================== -->
+
+<h3 align="center">⚡ RECENT GITHUB ACTIVITY</h3>
+
+<div align="center">
+
+<a href="https://github.com/shivbhadouria">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shivbhadouria&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
+</a>
 
 </div>
 
